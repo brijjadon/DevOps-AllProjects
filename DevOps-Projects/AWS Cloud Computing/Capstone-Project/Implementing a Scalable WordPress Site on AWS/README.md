@@ -1,9 +1,15 @@
 # WordPress High Availability Deployment on AWS using CloudFormation
 
-**Author:** Oluwaseun Osunsola  
-**Environment & Tools:** AWS, CloudFormation, VSCode, HyperTerminal   
-**Project link:**   
-https://github.com/Oluwaseunoa/DevOps-Projects/tree/main/AWS%20Cloud%20Computing/Capstone-Project/Implementing%20a%20Scalable%20WordPress%20Site%20on%20AWS
+
+## 🧑‍💼 Professional Details
+
+- **Name:** Brij Mohan Singh  
+- **Role:** DevOps & AWS Cloud Engineer  
+- **GitHub:** [github.com/brijjadon](https://github.com/brijjadon)  
+- **LinkedIn:** [Brij Mohan Singh](https://www.linkedin.com/in/brij-mohan-singh-731587a2/)  
+- **Email:** 📧 brijjadin7566@gmail.com  
+
+---
 
 ## Project Overview
 
