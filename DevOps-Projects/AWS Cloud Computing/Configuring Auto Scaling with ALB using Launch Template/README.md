@@ -1,8 +1,15 @@
 # Configuring Auto Scaling with Application Load Balancer using Launch Template
 
-**Author:** Oluwaseun Osunsola  
-**Environment:** AWS, VSCode & Hyper Terminal   
-**Project Link:** [GitHub Repository](https://github.com/Oluwaseunoa/DevOps-Projects/)
+
+## 🧑‍💼 Professional Details
+
+- **Name:** Brij Mohan Singh  
+- **Role:** DevOps & AWS Cloud Engineer  
+- **GitHub:** [github.com/brijjadon](https://github.com/brijjadon)  
+- **LinkedIn:** [Brij Mohan Singh](https://www.linkedin.com/in/brij-mohan-singh-731587a2/)  
+- **Email:** 📧 brijjadin7566@gmail.com  
+
+---
 
 ## Introduction
 This project provides a comprehensive, hands-on guide to implementing a highly available and scalable web application architecture on AWS using **Auto Scaling Groups (ASG)** integrated with an **Application Load Balancer (ALB)** and **Launch Templates**. 
