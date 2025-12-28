@@ -1,9 +1,38 @@
 # Automating Docker Image Build and Container Deployment Using Jenkins Pipeline Job
 
-**Author:** Oluwaseun Osunsola  
-**LinkedIn:** https://www.linkedin.com/in/oluwaseun-osunsola-95539b175/  
-**Project Repository:** https://github.com/Oluwaseunoa/DevOps-Projects/tree/main/Jenkins-Projects  
-**Environment & Tools:** AWS EC2 (Ubuntu 22.04 LTS), Jenkins 2.462.x (LTS), GitHub
+# 🚀 DevOps & AWS Cloud Projects  
+### 👨‍💻 Brij Mohan Singh
+
+![DevOps](https://img.shields.io/badge/DevOps-Automation-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Jenkins-red)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Container-blue)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+
+---
+
+## 👋 About Me
+
+I am a **DevOps & AWS Cloud Engineer** with strong hands-on experience in building, automating, and managing **scalable, secure, and cost-optimized cloud infrastructure**.
+
+I specialize in:
+- Cloud Infrastructure (AWS)
+- CI/CD Automation
+- Containerization & Orchestration
+- Infrastructure as Code (IaC)
+- Monitoring & Reliability
+
+---
+
+## 🧑‍💼 Professional Details
+
+- **Name:** Brij Mohan Singh  
+- **Role:** DevOps & AWS Cloud Engineer  
+- **GitHub:** [github.com/brijjadon](https://github.com/brijjadon)  
+- **LinkedIn:** [Brij Mohan Singh](https://www.linkedin.com/in/brij-mohan-singh-731587a2/)  
+- **Email:** 📧 brijjadin7566@gmail.com  
+
+---
 ## Project Overview
 
 This project demonstrates how to automate Docker image building and container deployment using a **Jenkins Declarative Pipeline Job**. The workflow integrates **GitHub webhooks** to enable **continuous integration**, ensuring that every code push automatically triggers a Jenkins pipeline that builds a Docker image and deploys a container.
