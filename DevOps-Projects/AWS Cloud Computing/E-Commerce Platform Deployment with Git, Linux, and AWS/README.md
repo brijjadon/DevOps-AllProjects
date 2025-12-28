@@ -1,10 +1,15 @@
 # E-Commerce Platform Deployment with Git, Linux, and AWS
 
-**Author:** Oluwaseun Osunsola  
-**Environment:** Windows OS [Hyper Terminal] 
 
-**Project link:** 
-https://github.com/Oluwaseunoa/DevOps-Projects/tree/main/Cloud%20Computing/E-Commerce%20Platform%20Deployment%20with%20Git%2C%20Linux%2C%20and%20AWS
+## 🧑‍💼 Professional Details
+
+- **Name:** Brij Mohan Singh  
+- **Role:** DevOps & AWS Cloud Engineer  
+- **GitHub:** [github.com/brijjadon](https://github.com/brijjadon)  
+- **LinkedIn:** [Brij Mohan Singh](https://www.linkedin.com/in/brij-mohan-singh-731587a2/)  
+- **Email:** 📧 brijjadin7566@gmail.com  
+
+---
 
 
 ---
