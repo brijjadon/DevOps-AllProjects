@@ -1,9 +1,16 @@
 # **AWS Free-Tier Account Creation**
 
 
-**Author:** Oluwaseun Osunsola  
-**Environment:** AWS  
-**Project Link:** https://github.com/Oluwaseunoa/DevOps-Projects/tree/main/Cloud%20Computing/AWS%20Account%20Creation
+
+## 🧑‍💼 Professional Details
+
+- **Name:** Brij Mohan Singh  
+- **Role:** DevOps & AWS Cloud Engineer  
+- **GitHub:** [github.com/brijjadon](https://github.com/brijjadon)  
+- **LinkedIn:** [Brij Mohan Singh](https://www.linkedin.com/in/brij-mohan-singh-731587a2/)  
+- **Email:** 📧 brijjadin7566@gmail.com  
+
+---
 
 ---
 
